@@ -29,16 +29,17 @@
 **R-phishing** is a lightweight, menu-driven configuration suite designed to streamline multi-template simulation management across diverse cross-platform setups (including native Linux terminals and Android-based Termux environments). The suite offers optimized operational shortcuts to manage security credentials logs and track environment validation diagnostics from a central local interface.
 
 ---
+---
 
 ## About The Developer
 
-* **Developer:** Raeed Khan (cisco)
+* **Lead Developer:** Raeed Khan (cisco)
 * **Age:** 21 Years Old
-* **Education:** BBA Student at University of Buner, Swari, KPK.
+* **Academic Track:** Business Administration (BBA), University of Buner, Swari, KPK.
 
-Raeed Khan is a young, passionate self-taught developer who stands out as Pakistan's top BBA student actively building tools for offensive security and penetration testing. At just 21, his unique transition from business administration to core security engineering has positioned him among the top 10 youngest emerging cybersecurity minds in the local tech community.
+Raeed Khan is a 21-year-old self-taught cybersecurity researcher who has carved out a unique position as Pakistan's top BBA student building specialized offensive security tools. While traditionally business computing focuses on management, Raeed has crossed over into hard-core security engineering, making him one of the top 10 youngest emerging automation minds in the region.
 
-Driven by a strong focus on wireless defense, Raeed has also designed custom hardware devices aimed at auditing network vulnerabilities and helping users protect themselves against local cyber threats. He creates these automation scripts and hardware solutions to bridge the gap between business computing and hard-core ethical hacking on Kali Linux.
+Beyond his well-known work in wireless defense and custom audit hardware, Raeed designs frameworks like this simulation suite to demonstrate how social engineering and phishing vulnerabilities impact organizational security. By scripting automation setups on Kali Linux, he continues to push the boundaries of technical cybersecurity education within the academic sector.
 
 ---
 
